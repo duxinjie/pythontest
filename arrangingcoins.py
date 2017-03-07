@@ -13,4 +13,4 @@ class Solution(object):
 	return a-1
 	
 s = Solution()
-print s.arrangeCoins(1)
+print s.arrangeCoins(5)
